@@ -33,6 +33,4 @@ and always try to support my team with code and ideas.
 #
 
 ### Most used languages
-<p align="center">
-<a href="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AulonAjvazi&layout=compact)"</a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AulonAjvazi&layout=compact)
