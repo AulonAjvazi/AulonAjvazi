@@ -31,3 +31,7 @@ and always try to support my team with code and ideas.
 <br />
 
 #
+
+### Most used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AulonAjvazi&layout=compact)
