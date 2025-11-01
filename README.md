@@ -7,11 +7,8 @@ All projects of mine are built from the ground up, I start by planning then desi
 action. I post all of my projects online for others to view and collaborate on,
 I also like to help others with their own coding problems I'm an effective problem solver 
 and always try to support my team with code and ideas.
-
-
-  <a href="https://www.youtube.com/@auloncontact"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+<a href="https://www.youtube.com/@auloncontact"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/aulon-ajvazi/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 <a href="https://x.com/AulonContact"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 
 ---
