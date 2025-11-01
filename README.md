@@ -39,9 +39,7 @@ and always try to support my team with code and ideas.
 <details> 
   <summary><h2>📘 My Top Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/AulonAjvazi/SkillSwap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AulonAjvazi&repo=SkillSwap&theme=react&bg_color=1F222E&title_color=4169E1&hide_border=true&icon_color=4169E1&show_icons=false" alt="SkillSwap">
-        <b>Description:</b> An online course where you can learn skills by tasks and videos. You can create an account, purchase a subscription (test), add coupons, save and view courses, start or remove them, and access an admin login page and dashboard. This project won the <b>Best Project 2025</b> in the J-Coders “Build a Startup” program, earning our group internships.
-</a>
+    <a href="https://github.com/AulonAjvazi/SkillSwap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AulonAjvazi&repo=SkillSwap&theme=react&bg_color=1F222E&title_color=4169E1&hide_border=true&icon_color=4169E1&show_icons=false" alt="SkillSwap"></a>
     <a href="https://github.com/AulonAjvazi/Spitali-Ditor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AulonAjvazi&repo=Spitali-Ditor&theme=react&bg_color=1F222E&title_color=4169E1&hide_border=true&icon_color=4169E1&show_icons=false" alt="Spitali-Ditor"></a>
     <a href="https://github.com/AulonAjvazi/rdr2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AulonAjvazi&repo=rdr2&theme=react&bg_color=1F222E&title_color=4169E1&hide_border=true&icon_color=4169E1&show_icons=false" alt="rdr2"></a>
     <a href="https://github.com/AulonAjvazi/Dice-Game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AulonAjvazi&repo=Dice-Game&theme=react&bg_color=1F222E&title_color=4169E1&hide_border=true&icon_color=4169E1&show_icons=false" alt="Dice-Game"></a>
