@@ -10,7 +10,7 @@ and always try to support my team with code and ideas.
 <a href="https://www.youtube.com/@auloncontact"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/aulon-ajvazi/"><img width="32px" alt="linkedin" title="linkedin" src="https://i.imgur.com/yRpa1dQ.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/AulonContact"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/yRpa1dQ.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/AulonContact"><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/twitter-icon-CF59TfF"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
 ---
