@@ -37,7 +37,7 @@ and always try to support my team with code and ideas.
 
 #
 <details> 
-  <summary><h2>📘 My Top Projects</h2></summary>
+  <summary><h2>🎯 Featured Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/AulonAjvazi/SkillSwap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AulonAjvazi&repo=SkillSwap&theme=react&bg_color=1F222E&title_color=4169E1&hide_border=true&icon_color=4169E1&show_icons=false" alt="SkillSwap"></a>
     <a href="https://github.com/AulonAjvazi/Spitali-Ditor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AulonAjvazi&repo=Spitali-Ditor&theme=react&bg_color=1F222E&title_color=4169E1&hide_border=true&icon_color=4169E1&show_icons=false" alt="Spitali-Ditor"></a>
