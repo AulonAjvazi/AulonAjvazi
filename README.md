@@ -1,6 +1,6 @@
 # Aulon Ajvazi
 
-**`Web Developer (Developer/UI/UX Designer)`**
+**`Web Developer (Developer/ UI/UX Designer)`**
 
 I'm a front-end developer and UI/UX Designer building my vision of websites on the internet.
 All projects of mine are built from the ground up, I start by planning then design to
@@ -31,6 +31,9 @@ and always try to support my team with code and ideas.
 <br />
 
 #
+
+### 📊 Stats
+![Aulon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AulonAjvazi&show_icons=true&theme=radical)
 
 <!--
 **AulonAjvazi/AulonAjvazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
