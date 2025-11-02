@@ -4,7 +4,7 @@
 
 I'm a front-end developer and UI/UX Designer building my vision of websites on the internet.
 All projects of mine are built from the ground up, I start by planning then design to
-action. I post all of my projects online for others to view and collaborate on,
+action. I post all of my projects on my github profile for others to view and collaborate on,
 I also like to help others with their own coding problems I'm an effective problem solver 
 and always try to support my team with code and ideas.
 
